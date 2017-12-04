@@ -1,0 +1,1770 @@
+﻿Log file open, 11/27/17 22:23:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ex01
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-821129584) SRandInit(-821129584).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.824819
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Dudi/Programs/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.27-20.23.14:144][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-20.23.14:144][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.27-20.23.14:191][  0]LogInit: Computer: DUDI-SURFACE
+[2017.11.27-20.23.14:192][  0]LogInit: User: Dudi
+[2017.11.27-20.23.14:192][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.27-20.23.14:192][  0]LogInit: High frequency timer resolution =2.435768 MHz
+[2017.11.27-20.23.14:192][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.27-20.23.14:192][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.27-20.23.14:192][  0]LogMemory: Process Physical Memory: 272.27 MB used, 272.27 MB peak
+[2017.11.27-20.23.14:192][  0]LogMemory: Process Virtual Memory: 271.07 MB used, 271.07 MB peak
+[2017.11.27-20.23.14:192][  0]LogMemory: Physical Memory: 4777.51 MB used,  3319.56 MB free, 8097.07 MB total
+[2017.11.27-20.23.14:192][  0]LogMemory: Virtual Memory: 641.91 MB used,  3319.56 MB free, 134217728.00 MB total
+[2017.11.27-20.23.14:679][  0]LogInit: Using OS detected language (en-US).
+[2017.11.27-20.23.14:679][  0]LogInit: Using OS detected locale (he-IL).
+[2017.11.27-20.23.14:779][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.27-20.23.14:780][  0]LogTextLocalizationManager: No localization for 'he-IL' exists, so 'en-US' will be used for the locale.
+[2017.11.27-20.23.15:456][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.27-20.23.19:535][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.27-20.23.19:548][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.11.27-20.23.19:548][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.11.27-20.23.19:550][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.27-20.23.19:550][  0]LogD3D11RHI:       0/0/4048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.27-20.23.19:550][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.27-20.23.19:559][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.27-20.23.19:559][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.27-20.23.19:559][  0]LogWindows: EnumDisplayDevices:
+[2017.11.27-20.23.19:560][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.11.27-20.23.19:560][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.11.27-20.23.19:560][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.11.27-20.23.19:560][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.27-20.23.19:560][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2017.11.27-20.23.19:560][  0]LogD3D11RHI:   Driver Version: 20.19.15.4568 (internal:20.19.15.4568, unified:20.19.15.4568)
+[2017.11.27-20.23.19:560][  0]LogD3D11RHI:      Driver Date: 12-16-2016
+[2017.11.27-20.23.19:560][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2017.11.27-20.23.19:567][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.27-20.23.19:594][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.11.27-20.23.19:599][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Intermediate/Shaders/WorkingDirectory/8820/).
+[2017.11.27-20.23.19:600][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dudi/AppData/Local/Temp/UnrealShaderWorkingDir/C29649594687A78C5D493E99449DDB22/'.
+[2017.11.27-20.23.19:601][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.27-20.23.22:912][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.27-20.23.22:997][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.27-20.23.23:079][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.27-20.23.23:152][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.27-20.23.23:232][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.27-20.23.23:301][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.27-20.23.23:376][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.27-20.23.23:446][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.27-20.23.23:508][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.27-20.23.23:578][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.27-20.23.23:648][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.27-20.23.23:718][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.27-20.23.23:789][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.27-20.23.23:862][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.27-20.23.24:016][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.27-20.23.24:017][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.27-20.23.24:090][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.27-20.23.24:146][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.27-20.23.24:294][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.27-20.23.24:331][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.27-20.23.24:405][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.27-20.23.24:494][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.27-20.23.24:568][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.27-20.23.24:647][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.27-20.23.24:647][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.27-20.23.25:458][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.27-20.23.25:978][  0]LogDerivedDataCache: Loaded boot cache 0.52s 78MB C:/Users/Dudi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-20.23.25:978][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dudi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.27-20.23.25:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.27-20.23.25:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.27-20.23.25:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.27-20.23.25:978][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.27-20.23.26:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.27-20.23.26:027][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dudi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.27-20.23.26:047][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.27-20.23.26:054][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.27-20.23.26:080][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-20.23.26:080][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-20.23.27:523][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-20.23.28:376][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.27-20.23.28:437][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.27-20.23.28:438][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.27-20.23.28:438][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.27-20.23.28:438][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.27-20.23.28:438][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.27-20.23.28:539][  0]LogNetVersion: Ex01 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 337916983)
+[2017.11.27-20.23.29:192][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2017.11.27-20.23.30:951][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.125180 seconds
+[2017.11.27-20.23.30:959][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.27-20.23.30:959][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.27-20.23.30:959][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.27-20.23.31:033][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-20.23.40:256][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.27-20.23.40:312][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.27-20.23.41:485][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.27-20.23.42:279][  0]SourceControl: Source control is disabled
+[2017.11.27-20.23.42:280][  0]SourceControl: Source control is disabled
+[2017.11.27-20.23.42:367][  0]SourceControl: Source control is disabled
+[2017.11.27-20.23.42:443][  0]SourceControl: Source control is disabled
+[2017.11.27-20.23.43:697][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.27-20.23.44:068][  0]LogOcInput: OculusInput pre-init called
+[2017.11.27-20.23.44:535][  0]LogEngine: Initializing Engine...
+[2017.11.27-20.23.44:542][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.27-20.23.45:168][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.27-20.23.45:168][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.27-20.23.45:379][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.27-20.23.45:405][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-20.23.45:503][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-20.23.45:657][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Dudi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-20.23.45:680][  0]LogInit: Texture streaming: Enabled
+[2017.11.27-20.23.45:831][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.27-20.23.46:075][  0]LogInit: Transaction tracking system initialized
+[2017.11.27-20.23.46:694][  0]BlueprintLog: New page: Editor Load
+[2017.11.27-20.23.48:410][  0]LocalizationService: Localization service is disabled
+[2017.11.27-20.23.49:828][  0]LogConsoleResponse: Display: 
+[2017.11.27-20.23.50:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.27-20.23.50:965][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.27-20.23.50:965][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.27-20.23.51:724][  0]LogFileCache: Scanning file cache for directory 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/' took 0.02s
+[2017.11.27-20.23.53:392][  0]SourceControl: Source control is disabled
+[2017.11.27-20.23.53:395][  0]Cmd: MAP LOAD FILE="../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-20.23.53:397][  0]LightingResults: New page: Lighting Build
+[2017.11.27-20.23.53:500][  0]MapCheck: New page: Map Check
+[2017.11.27-20.23.53:500][  0]LightingResults: New page: Lighting Build
+[2017.11.27-20.23.55:059][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-20.23.55:134][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-20.23.55:167][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-20.23.55:261][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.118ms to complete.
+[2017.11.27-20.23.55:261][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.868
+[2017.11.27-20.23.55:569][  0]LogCollectionManager: Loaded 0 collections in 0.002550 seconds
+[2017.11.27-20.23.55:708][  0]LogFileCache: Scanning file cache for directory 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/Collections/' took 0.01s
+[2017.11.27-20.23.55:708][  0]LogFileCache: Scanning file cache for directory 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/Developers/Dudi/Collections/' took 0.01s
+[2017.11.27-20.23.55:708][  0]LogFileCache: Scanning file cache for directory 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/Collections/' took 0.01s
+[2017.11.27-20.23.55:708][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.27-20.23.55:728][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2363 classes and 519 folders.
+[2017.11.27-20.23.55:853][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.27-20.23.56:581][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.27-20.23.56:656][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.27-20.23.56:752][  0]LogSlate: Took 0.012143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-20.23.56:766][  0]LogSlate: Took 0.010040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.27-20.23.56:787][  0]LogSlate: Took 0.010828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.27-20.23.56:992][  0]LogRenderer: Reallocating scene render targets to support 808x524 Format 9 NumSamples 1 (Frame:1).
+[2017.11.27-20.23.57:412][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.27-20.23.57:412][  0]LogLoad: (Engine Initialization) Total time: 50.44 seconds
+[2017.11.27-20.23.57:412][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.27-20.23.57:412][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.27-20.23.57:445][  0]LogContentStreaming: Texture pool size now 800 MB
+[2017.11.27-20.23.57:610][  2]LogAssetRegistry: Asset discovery search completed in 28.4414 seconds
+[2017.11.27-20.23.57:614][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.27-20.23.57:615][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000137 seconds (updated 0 objects)
+[2017.11.27-20.29.26:004][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.29.38:391][653]LogEditorViewport: Clicking Background
+[2017.11.27-20.29.39:927][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.29.48:540][850]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.30.09:395][117]LogSlate: Took 0.007476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-20.30.09:416][117]LogStaticMesh: Building static mesh wall...
+[2017.11.27-20.30.09:422][117]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/wall.wall
+[2017.11.27-20.30.09:474][117]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-20.30.23:964][374]Cmd: TRANSACTION UNDO
+[2017.11.27-20.30.23:964][374]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.30.25:183][397]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.30.28:046][434]Cmd: PIVOT SNAPPED
+[2017.11.27-20.30.29:271][455]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.30.32:121][495]Cmd: ACTOR BAKEPREPIVOT
+[2017.11.27-20.30.39:612][594]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.30.45:893][674]LogStaticMesh: Building static mesh StaticMesh...
+[2017.11.27-20.30.45:897][674]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/StaticMesh.StaticMesh
+[2017.11.27-20.30.47:169][698]LogActorFactory: Actor Factory created StaticMesh
+[2017.11.27-20.30.47:457][700]LogActorFactory: Actor Factory created StaticMesh
+[2017.11.27-20.30.48:836][724]Cmd: TRANSACTION UNDO
+[2017.11.27-20.30.48:836][724]LogEditorTransaction: Undo Create Actors
+[2017.11.27-20.30.50:767][750]LogActorFactory: Actor Factory created StaticMesh
+[2017.11.27-20.30.51:523][763]LogActorFactory: Actor Factory created StaticMesh
+[2017.11.27-20.30.52:381][779]Cmd: TRANSACTION UNDO
+[2017.11.27-20.30.52:381][779]LogEditorTransaction: Undo Create Actors
+[2017.11.27-20.31.35:457][616]Cmd: TRANSACTION UNDO
+[2017.11.27-20.31.35:457][616]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.31.42:440][744]Cmd: TRANSACTION UNDO
+[2017.11.27-20.31.42:440][744]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.31.46:405][817]Cmd: TRANSACTION UNDO
+[2017.11.27-20.31.46:405][817]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.31.54:941][993]Cmd: MODE SCALEGRID=1
+[2017.11.27-20.32.03:203][163]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.03:203][163]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.05:682][212]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.05:683][212]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.11:068][321]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.11:068][321]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.12:101][343]LogEditorViewport: Clicking Background
+[2017.11.27-20.32.12:268][345]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.12:268][345]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-20.32.13:015][358]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.13:015][358]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.16:368][420]Cmd: MODE GRID=0
+[2017.11.27-20.32.17:700][446]Cmd: MODE GRID=1
+[2017.11.27-20.32.34:034][782]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.34:035][782]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.34:494][788]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.34:495][788]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.43:291][957]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.43:291][957]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.44:547][979]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.44:548][979]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.46:371][  7]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.46:371][  7]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.54:545][164]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.54:545][164]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.32.58:148][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.32.58:629][244]Cmd: TRANSACTION UNDO
+[2017.11.27-20.32.58:629][244]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.00:292][278]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.33.01:417][298]LogEditorViewport: Clicking Background
+[2017.11.27-20.33.02:429][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.33.21:198][712]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.21:198][712]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.21:431][714]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.21:431][714]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.21:713][719]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.21:713][719]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-20.33.22:893][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.33.23:914][767]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.33.29:100][859]Cmd: ACTOR UNBAKEPREPIVOT
+[2017.11.27-20.33.32:389][931]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.32:390][931]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.40:437][102]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.40:438][102]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.44:592][186]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.44:593][186]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.50:149][307]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.50:149][307]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.33.53:731][377]Cmd: TRANSACTION UNDO
+[2017.11.27-20.33.53:731][377]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.34.00:204][516]Cmd: TRANSACTION UNDO
+[2017.11.27-20.34.00:204][516]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.34.03:510][585]Cmd: TRANSACTION UNDO
+[2017.11.27-20.34.03:510][585]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.34.05:427][623]Cmd: TRANSACTION UNDO
+[2017.11.27-20.34.05:428][623]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.34.08:117][683]Cmd: TRANSACTION UNDO
+[2017.11.27-20.34.08:117][683]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.34.08:904][702]Cmd: TRANSACTION UNDO
+[2017.11.27-20.34.08:904][702]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.11.27-20.34.09:384][712]Cmd: TRANSACTION UNDO
+[2017.11.27-20.34.09:384][712]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-20.34.10:222][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.34.11:864][767]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.34.15:524][838]Cmd: PIVOT SNAPPED
+[2017.11.27-20.34.16:980][871]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.34.19:211][907]Cmd: PIVOT SNAPPED
+[2017.11.27-20.34.20:492][937]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube33)
+[2017.11.27-20.34.22:767][974]Cmd: ACTOR BAKEPREPIVOT
+[2017.11.27-20.34.43:377][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.11.27-20.34.47:895][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.34.49:869][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.11.27-20.34.54:477][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.34.56:727][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.11.27-20.35.11:115][118]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube21)
+[2017.11.27-20.35.13:386][160]Cmd: PIVOT SNAPPED
+[2017.11.27-20.35.31:204][645]LogEditorViewport: Clicking Background
+[2017.11.27-20.35.40:511][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-20.35.44:301][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.35.45:141][ 18]Cmd: DUPLICATE
+[2017.11.27-20.35.45:141][ 18]Cmd: ACTOR DUPLICATE
+[2017.11.27-20.35.55:152][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-20.36.06:569][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-20.36.07:706][568]Cmd: DELETE
+[2017.11.27-20.36.07:706][568]Cmd: ACTOR DELETE
+[2017.11.27-20.36.07:723][568]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.36.07:781][568]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2017.11.27-20.36.08:506][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-20.36.36:591][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.36.40:658][412]Cmd: TRANSACTION UNDO
+[2017.11.27-20.36.40:658][412]LogEditorTransaction: Undo Move Actors
+[2017.11.27-20.36.44:244][503]Cmd: TRANSACTION UNDO
+[2017.11.27-20.36.44:244][503]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-20.36.46:931][571]LogEditorViewport: Clicking Background
+[2017.11.27-20.36.51:055][678]LogEditorViewport: Clicking Background
+[2017.11.27-20.36.52:449][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.36.53:860][747]Cmd: DUPLICATE
+[2017.11.27-20.36.53:860][747]Cmd: ACTOR DUPLICATE
+[2017.11.27-20.37.21:916][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-20.37.22:811][449]Cmd: DELETE
+[2017.11.27-20.37.22:811][449]Cmd: ACTOR DELETE
+[2017.11.27-20.37.22:821][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.37.22:878][449]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2017.11.27-20.37.24:146][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-20.37.30:353][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-20.37.31:012][654]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2017.11.27-20.37.31:448][661]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2017.11.27-20.37.32:408][682]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2017.11.27-20.37.32:914][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2017.11.27-20.37.33:508][703]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube30)
+[2017.11.27-20.37.34:281][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2017.11.27-20.37.39:206][836]LogEditorViewport: Clicking Background
+[2017.11.27-20.37.40:371][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-20.37.41:407][895]Cmd: DUPLICATE
+[2017.11.27-20.37.41:407][895]Cmd: ACTOR DUPLICATE
+[2017.11.27-20.37.49:757][ 80]LogEditorViewport: Clicking Background
+[2017.11.27-20.37.50:478][ 97]LogEditorViewport: Clicking Background
+[2017.11.27-20.37.51:067][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-20.37.51:987][129]Cmd: DELETE
+[2017.11.27-20.37.51:987][129]Cmd: ACTOR DELETE
+[2017.11.27-20.37.52:001][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.37.52:079][129]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2017.11.27-20.37.58:222][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2017.11.27-20.38.18:257][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-20.38.19:633][839]Cmd: DUPLICATE
+[2017.11.27-20.38.19:633][839]Cmd: ACTOR DUPLICATE
+[2017.11.27-20.38.22:453][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-20.38.23:128][919]Cmd: DELETE
+[2017.11.27-20.38.23:129][919]Cmd: ACTOR DELETE
+[2017.11.27-20.38.23:142][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.38.23:207][919]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2017.11.27-20.38.23:771][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2017.11.27-20.38.39:434][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-20.38.46:171][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2017.11.27-20.39.00:004][769]LogSavePackage: Save=334.75ms
+[2017.11.27-20.39.00:004][769]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap328B3FA74B1F7E1C800E3BA00303D4FE.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-20.39.00:038][769]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-20.39.00:676][769]LogSavePackage: Save=536.60ms
+[2017.11.27-20.39.00:676][769]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData22785C6848F9117AFBB11EAD6D06A369.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-20.39.00:681][769]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-20.57.05:249][511]Cmd: MODE SCALEGRID=0
+[2017.11.27-20.57.22:655][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-20.57.24:020][231]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube34)
+[2017.11.27-20.57.30:663][482]Cmd: PIVOT SNAPPED
+[2017.11.27-20.57.34:810][644]LogEditorViewport: Clicking Background
+[2017.11.27-20.57.37:307][754]LogEditorViewport: Clicking Background
+[2017.11.27-20.57.37:811][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2017.11.27-20.57.39:724][856]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube37)
+[2017.11.27-20.57.42:861][976]Cmd: PIVOT SNAPPED
+[2017.11.27-20.57.46:120][108]LogEditorViewport: Clicking Background
+[2017.11.27-20.57.50:576][282]LogEditorViewport: Clicking Background
+[2017.11.27-20.57.56:155][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2017.11.27-20.58.11:693][  8]LogEditorViewport: Clicking Background
+[2017.11.27-20.58.17:124][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-20.58.18:281][227]Cmd: DELETE
+[2017.11.27-20.58.18:281][227]Cmd: ACTOR DELETE
+[2017.11.27-20.58.18:287][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.18:312][227]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2017.11.27-20.58.19:905][296]LogEditorViewport: Clicking Background
+[2017.11.27-20.58.20:237][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2017.11.27-20.58.21:056][340]Cmd: DELETE
+[2017.11.27-20.58.21:057][340]Cmd: ACTOR DELETE
+[2017.11.27-20.58.21:063][340]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.21:088][340]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2017.11.27-20.58.21:706][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2017.11.27-20.58.21:988][374]Cmd: DELETE
+[2017.11.27-20.58.21:988][374]Cmd: ACTOR DELETE
+[2017.11.27-20.58.21:993][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.22:022][374]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.11.27-20.58.22:358][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2017.11.27-20.58.22:613][397]Cmd: DELETE
+[2017.11.27-20.58.22:613][397]Cmd: ACTOR DELETE
+[2017.11.27-20.58.22:619][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.22:642][397]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2017.11.27-20.58.23:182][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2017.11.27-20.58.23:727][440]Cmd: DELETE
+[2017.11.27-20.58.23:727][440]Cmd: ACTOR DELETE
+[2017.11.27-20.58.23:732][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.23:758][440]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2017.11.27-20.58.24:329][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2017.11.27-20.58.24:591][472]Cmd: DELETE
+[2017.11.27-20.58.24:591][472]Cmd: ACTOR DELETE
+[2017.11.27-20.58.24:595][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.24:623][472]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.11.27-20.58.25:188][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2017.11.27-20.58.25:968][525]Cmd: DUPLICATE
+[2017.11.27-20.58.25:968][525]Cmd: ACTOR DUPLICATE
+[2017.11.27-20.58.35:522][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2017.11.27-20.58.36:549][946]Cmd: DELETE
+[2017.11.27-20.58.36:549][946]Cmd: ACTOR DELETE
+[2017.11.27-20.58.36:554][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-20.58.36:582][946]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2017.11.27-20.58.37:504][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-20.58.38:309][ 14]Cmd: DUPLICATE
+[2017.11.27-20.58.38:309][ 14]Cmd: ACTOR DUPLICATE
+[2017.11.27-20.59.21:715][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-20.59.25:810][527]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-20.59.42:005][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-20.59.50:726][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-20.59.55:246][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.00.33:714][308]Cmd: TRANSACTION UNDO
+[2017.11.27-21.00.33:715][308]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.01.13:455][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2017.11.27-21.01.19:394][208]Cmd: DELETE
+[2017.11.27-21.01.19:394][208]Cmd: ACTOR DELETE
+[2017.11.27-21.01.19:406][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.01.19:464][208]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2017.11.27-21.01.21:082][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.11.27-21.01.21:988][275]Cmd: DUPLICATE
+[2017.11.27-21.01.21:989][275]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.01.32:521][541]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube22)
+[2017.11.27-21.01.34:742][590]Cmd: PIVOT SNAPPED
+[2017.11.27-21.02.13:360][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.11.27-21.02.15:566][474]LogEditorViewport: Clicking Background
+[2017.11.27-21.02.15:992][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2017.11.27-21.02.17:304][503]Cmd: DUPLICATE
+[2017.11.27-21.02.17:304][503]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.03.17:223][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-21.03.18:295][594]Cmd: DUPLICATE
+[2017.11.27-21.03.18:295][594]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.03.23:050][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2017.11.27-21.03.24:708][713]Cmd: DELETE
+[2017.11.27-21.03.24:709][713]Cmd: ACTOR DELETE
+[2017.11.27-21.03.24:722][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.03.24:788][713]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2017.11.27-21.03.25:593][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.03.44:535][102]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube23)
+[2017.11.27-21.03.46:942][141]Cmd: PIVOT SNAPPED
+[2017.11.27-21.04.22:483][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2017.11.27-21.04.23:573][879]Cmd: DELETE
+[2017.11.27-21.04.23:573][879]Cmd: ACTOR DELETE
+[2017.11.27-21.04.23:589][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.04.23:665][879]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2017.11.27-21.04.24:683][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.04.30:486][  5]Cmd: TRANSACTION UNDO
+[2017.11.27-21.04.30:486][  5]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.04.31:019][ 15]Cmd: TRANSACTION UNDO
+[2017.11.27-21.04.31:019][ 15]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.04.38:212][149]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube23)
+[2017.11.27-21.04.40:265][178]Cmd: PIVOT SNAPPED
+[2017.11.27-21.05.12:237][667]LogEditorViewport: Clicking Background
+[2017.11.27-21.05.12:637][676]Cmd: TRANSACTION UNDO
+[2017.11.27-21.05.12:637][676]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.05.14:184][701]Cmd: TRANSACTION UNDO
+[2017.11.27-21.05.14:185][701]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.05.26:575][882]LogEditorViewport: Clicking Background
+[2017.11.27-21.05.26:814][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.05.26:814][887]Can't find target actor or component.
+[2017.11.27-21.05.27:677][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.05.27:923][907]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.05.33:197][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.05.34:960][ 43]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube23)
+[2017.11.27-21.05.38:475][109]Cmd: PIVOT SNAPPED
+[2017.11.27-21.05.44:908][240]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube23)
+[2017.11.27-21.05.47:041][275]Cmd: PIVOT SNAPPED
+[2017.11.27-21.05.51:295][348]Cmd: ACTOR UNBAKEPREPIVOT
+[2017.11.27-21.05.52:361][369]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube23)
+[2017.11.27-21.05.54:549][405]Cmd: PIVOT SNAPPED
+[2017.11.27-21.07.09:253][557]Cmd: DUPLICATE
+[2017.11.27-21.07.09:253][557]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.07.10:994][590]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.07.28:734][968]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube24)
+[2017.11.27-21.07.29:536][983]LogEditorViewport: Clicking Background
+[2017.11.27-21.07.30:631][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-21.07.42:362][249]Cmd: TRANSACTION UNDO
+[2017.11.27-21.07.42:363][249]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.07.46:020][329]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube24)
+[2017.11.27-21.07.46:792][344]LogEditorViewport: Clicking Background
+[2017.11.27-21.07.47:662][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-21.07.47:913][365]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube24)
+[2017.11.27-21.07.50:302][415]Cmd: PIVOT SNAPPED
+[2017.11.27-21.08.17:330][946]LogEditorViewport: Clicking Background
+[2017.11.27-21.08.21:864][ 62]LogEditorViewport: Clicking Background
+[2017.11.27-21.08.22:728][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2017.11.27-21.08.26:293][171]Cmd: DELETE
+[2017.11.27-21.08.26:294][171]Cmd: ACTOR DELETE
+[2017.11.27-21.08.26:305][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.08.26:372][171]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2017.11.27-21.08.27:042][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.08.28:036][214]Cmd: DUPLICATE
+[2017.11.27-21.08.28:037][214]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.09.02:299][932]LogEditorViewport: Clicking Background
+[2017.11.27-21.09.03:045][955]Cmd: TRANSACTION UNDO
+[2017.11.27-21.09.03:046][955]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.09.03:860][975]Cmd: TRANSACTION UNDO
+[2017.11.27-21.09.03:861][975]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.09.26:084][322]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube25)
+[2017.11.27-21.09.28:511][378]Cmd: PIVOT SNAPPED
+[2017.11.27-21.09.37:123][502]Cmd: TRANSACTION UNDO
+[2017.11.27-21.09.37:124][502]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.09.45:377][600]Cmd: TRANSACTION UNDO
+[2017.11.27-21.09.45:377][600]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.10.16:594][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.10.19:105][ 68]Cmd: TRANSACTION UNDO
+[2017.11.27-21.10.19:105][ 68]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.10.31:588][243]Cmd: TRANSACTION UNDO
+[2017.11.27-21.10.31:588][243]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.10.51:073][526]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube24)
+[2017.11.27-21.10.52:174][541]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.10.58:418][670]LogEditorViewport: Clicking Background
+[2017.11.27-21.11.05:845][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-21.11.27:673][444]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube25)
+[2017.11.27-21.11.30:336][506]Cmd: PIVOT SNAPPED
+[2017.11.27-21.11.45:530][785]LogEditorViewport: Clicking Background
+[2017.11.27-21.11.45:966][797]Cmd: TRANSACTION UNDO
+[2017.11.27-21.11.45:966][797]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.11.46:891][820]Cmd: TRANSACTION UNDO
+[2017.11.27-21.11.46:891][820]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.11.49:836][892]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube25)
+[2017.11.27-21.11.52:122][939]Cmd: PIVOT SNAPPED
+[2017.11.27-21.12.03:019][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-21.12.26:736][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.12.30:180][717]LogEditorViewport: Clicking Background
+[2017.11.27-21.12.33:732][773]LogSavePackage: Save=327.84ms
+[2017.11.27-21.12.33:732][773]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapB431E895457B3F835C97D58C5C5CA8F5.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.12.33:737][773]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.12.34:259][773]LogSavePackage: Save=440.01ms
+[2017.11.27-21.12.34:259][773]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData717DA76A47FA657580199C98E265DEAE.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.12.34:263][773]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.12.38:934][878]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-21.12.42:464][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-21.12.46:795][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2017.11.27-21.12.50:372][ 34]Cmd: TRANSACTION UNDO
+[2017.11.27-21.12.50:372][ 34]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.12.56:644][133]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-21.13.00:248][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.13.00:327][183]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2017.11.27-21.13.01:897][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-21.13.03:781][230]Cmd: DUPLICATE
+[2017.11.27-21.13.03:782][230]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.13.08:234][284]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube26)
+[2017.11.27-21.13.09:435][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-21.13.10:323][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.13.11:710][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-21.13.13:573][361]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.13.21:737][532]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2017.11.27-21.13.27:045][625]LogEditorViewport: Clicking Background
+[2017.11.27-21.13.32:543][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-21.14.01:191][414]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.14.04:389][485]LogEditorViewport: Clicking Background
+[2017.11.27-21.14.06:036][529]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.14.06:036][529]Can't find target actor or component.
+[2017.11.27-21.14.06:772][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-21.14.07:306][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.14.22:491][893]LogSavePackage: Save=333.21ms
+[2017.11.27-21.14.22:491][893]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap5991B58E44CD6F237E536EB25A9EA83A.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.14.22:497][893]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.14.23:132][893]LogSavePackage: Save=576.44ms
+[2017.11.27-21.14.23:132][893]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData897DC46B4167318008A69EB7B4C520AE.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.14.23:136][893]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.14.24:215][911]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-21.14.59:546][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.11.27-21.15.01:267][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.15.07:773][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.11.27-21.15.15:712][603]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.15.23:242][695]Cmd: DELETE
+[2017.11.27-21.15.23:242][695]Cmd: ACTOR DELETE
+[2017.11.27-21.15.23:255][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.15.23:322][695]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2017.11.27-21.15.23:997][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-21.15.29:450][808]Cmd: DUPLICATE
+[2017.11.27-21.15.29:450][808]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.16.09:119][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2017.11.27-21.17.09:923][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.17.25:331][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-21.17.32:949][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-21.17.45:539][665]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.17.48:741][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-21.17.57:645][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-21.18.00:358][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-21.18.12:214][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-21.18.27:585][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.11.27-21.18.31:974][116]LogSavePackage: Save=328.72ms
+[2017.11.27-21.18.31:974][116]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap572D693846EE11723B9143871BEDFCD3.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.18.31:980][116]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.18.32:544][116]LogSavePackage: Save=479.02ms
+[2017.11.27-21.18.32:544][116]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData31BA2D514E15D50DDA129FAE565B1F3B.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.18.32:547][116]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.19.29:439][858]LogSavePackage: Save=318.34ms
+[2017.11.27-21.19.29:439][858]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapCDAAF2A24899DF3696A8858403C8BB2C.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.19.29:445][858]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.19.29:969][858]LogSavePackage: Save=468.57ms
+[2017.11.27-21.19.29:969][858]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltDataF46D294B446BC3D9422A778FFC8FDAD6.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.19.29:972][858]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.19.33:967][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2017.11.27-21.19.36:538][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2017.11.27-21.19.41:908][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.20.19:161][864]LogEditorViewport: Clicking Background
+[2017.11.27-21.20.19:268][865]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.20.19:268][865]Can't find target actor or component.
+[2017.11.27-21.20.20:026][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2017.11.27-21.20.20:268][890]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.20.32:074][101]Cmd: SELECT NONE
+[2017.11.27-21.20.33:476][125]LogEditorViewport: Clicking Background
+[2017.11.27-21.20.35:523][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2017.11.27-21.20.46:044][444]LogEditorViewport: Clicking Background
+[2017.11.27-21.20.46:195][447]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.46:195][447]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.20.46:422][449]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.46:422][449]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.46:680][455]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.46:680][455]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.46:918][462]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.46:918][462]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.47:139][468]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.47:140][468]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.47:378][474]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.47:379][474]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.47:561][478]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.47:561][478]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.47:778][483]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.47:779][483]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.20.47:961][487]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.47:962][487]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-21.20.48:182][492]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.48:182][492]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.20.48:403][497]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.48:403][497]LogEditorTransaction: Undo Select None
+[2017.11.27-21.20.49:041][511]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.49:041][511]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.20.49:531][522]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.49:531][522]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.20.49:756][527]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.49:756][527]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.20.49:938][531]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.49:938][531]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.20.50:118][535]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.50:118][535]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.20.50:552][546]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.50:552][546]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.20.51:030][558]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.51:030][558]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-21.20.51:623][574]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.51:623][574]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.20.52:289][588]Cmd: TRANSACTION UNDO
+[2017.11.27-21.20.52:289][588]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.21.04:173][799]LogEditorViewport: Clicking Background
+[2017.11.27-21.21.04:527][807]Cmd: TRANSACTION UNDO
+[2017.11.27-21.21.04:527][807]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.21.05:132][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.21.06:053][840]LogEditorViewport: Clicking Background
+[2017.11.27-21.21.06:323][845]Cmd: TRANSACTION UNDO
+[2017.11.27-21.21.06:323][845]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.21.07:124][861]Cmd: TRANSACTION UNDO
+[2017.11.27-21.21.07:125][861]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-21.21.07:815][875]Cmd: TRANSACTION UNDO
+[2017.11.27-21.21.07:815][875]LogEditorTransaction: Undo Set Location
+[2017.11.27-21.21.39:521][355]LogEditorViewport: Clicking Background
+[2017.11.27-21.21.40:435][376]Cmd: SELECT NONE
+[2017.11.27-21.21.49:455][509]LogEditorViewport: Clicking Background
+[2017.11.27-21.21.59:025][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2017.11.27-21.21.59:567][702]Cmd: DUPLICATE
+[2017.11.27-21.21.59:567][702]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.22.37:227][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2017.11.27-21.23.01:617][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2017.11.27-21.23.02:250][910]Cmd: DUPLICATE
+[2017.11.27-21.23.02:250][910]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.23.03:939][947]Cmd: EDIT COPY
+[2017.11.27-21.23.04:627][962]Cmd: EDIT PASTE
+[2017.11.27-21.23.22:969][325]Cmd: DUPLICATE
+[2017.11.27-21.23.22:969][325]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.23.52:617][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2017.11.27-21.23.53:992][  0]Cmd: DUPLICATE
+[2017.11.27-21.23.53:992][  0]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.24.13:279][368]LogEditorViewport: Clicking Background
+[2017.11.27-21.24.20:034][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2017.11.27-21.24.20:499][511]Cmd: DUPLICATE
+[2017.11.27-21.24.20:499][511]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.24.23:199][567]Cmd: TRANSACTION UNDO
+[2017.11.27-21.24.23:200][567]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.24.23:414][569]Cmd: TRANSACTION UNDO
+[2017.11.27-21.24.23:415][569]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.24.49:217][109]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.24.53:217][197]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-21.24.53:217][197]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-21.24.58:369][300]LogSavePackage: Save=360.80ms
+[2017.11.27-21.24.58:369][300]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap02C27B744626F851238205B3F74AF387.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.24.58:379][300]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.24.58:999][300]LogSavePackage: Save=514.66ms
+[2017.11.27-21.24.58:999][300]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData3B9D825B4FBBD6A22581ECA64ADB9C2B.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.24.59:002][300]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.25.30:796][761]LogSlate: Took 0.061927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.27-21.25.30:859][761]LogSlate: Took 0.059260 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2017.11.27-21.25.32:115][792]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.26.19:430][669]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.26.47:580][221]Cmd: DUPLICATE
+[2017.11.27-21.26.47:580][221]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.27.01:196][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.27.02:997][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2017.11.27-21.27.21:894][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2017.11.27-21.27.22:748][951]Cmd: DUPLICATE
+[2017.11.27-21.27.22:748][951]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.27.44:284][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2017.11.27-21.27.45:142][430]Cmd: DUPLICATE
+[2017.11.27-21.27.45:142][430]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.27.56:321][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2017.11.27-21.27.58:451][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-21.28.00:310][748]LogEditorViewport: Clicking Background
+[2017.11.27-21.28.19:372][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2017.11.27-21.28.20:700][113]Cmd: DUPLICATE
+[2017.11.27-21.28.20:700][113]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.28.32:098][379]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.29.08:082][ 12]Cmd: DUPLICATE
+[2017.11.27-21.29.08:082][ 12]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.29.19:341][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2017.11.27-21.29.26:572][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube52)
+[2017.11.27-21.29.42:727][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2017.11.27-21.30.09:779][112]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.30.12:111][161]LogEditorViewport: Clicking Background
+[2017.11.27-21.30.18:172][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2017.11.27-21.30.19:563][297]Cmd: DUPLICATE
+[2017.11.27-21.30.19:563][297]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.30.59:201][ 52]Cmd: TRANSACTION UNDO
+[2017.11.27-21.30.59:201][ 52]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.31.01:222][100]Cmd: TRANSACTION REDO
+[2017.11.27-21.31.01:223][100]LogEditorTransaction: Redo Set Scale
+[2017.11.27-21.31.26:387][451]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-21.31.26:387][451]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-21.31.33:907][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2017.11.27-21.31.59:816][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2017.11.27-21.32.05:346][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2017.11.27-21.32.09:670][355]LogEditorViewport: Clicking Background
+[2017.11.27-21.32.15:947][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2017.11.27-21.32.16:909][495]Cmd: DUPLICATE
+[2017.11.27-21.32.16:909][495]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.32.45:457][127]LogEditorViewport: Clicking Background
+[2017.11.27-21.32.49:865][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2017.11.27-21.32.50:932][223]Cmd: DUPLICATE
+[2017.11.27-21.32.50:932][223]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.32.55:234][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.33.17:663][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.33.19:111][822]LogEditorViewport: Clicking Background
+[2017.11.27-21.33.22:867][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2017.11.27-21.33.23:786][898]Cmd: DUPLICATE
+[2017.11.27-21.33.23:787][898]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.33.52:021][443]LogSavePackage: Save=351.22ms
+[2017.11.27-21.33.52:024][443]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapABB98E2B46DC26892D0338928DCF2C4E.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.33.52:031][443]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.33.52:625][443]LogSavePackage: Save=503.11ms
+[2017.11.27-21.33.52:625][443]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData358CCD2840ECFAE0D0DC9291379DF29F.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.33.52:629][443]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.33.55:583][498]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.27-21.34.03:474][585]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.27-21.34.11:397][682]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-21.34.11:594][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.34.11:596][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-21.34.11:605][682]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 28, 2017, 1:34:11 AM)
+[2017.11.27-21.34.11:605][682]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.27-21.34.11:677][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071912s)
+[2017.11.27-21.34.11:680][682]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-21.34.11:681][682]LogPlayLevel: PIE: World Init took: (0.003717s)
+[2017.11.27-21.34.11:682][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.076447s)
+[2017.11.27-21.34.11:757][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-21.34.11:788][682]LogInit: FAudioDevice initialized.
+[2017.11.27-21.34.11:850][682]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.27-21.34.11:859][682]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.27-23.34.11
+[2017.11.27-21.34.11:859][682]LogWorld: Bringing up level for play took: 0.006270
+[2017.11.27-21.34.11:929][682]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.11.27-21.34.11:930][682]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.955
+[2017.11.27-21.34.11:931][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.34.51:197][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.34.51:334][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.34.59:104][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.35.02:729][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2017.11.27-21.35.23:984][758]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube54)
+[2017.11.27-21.35.25:110][780]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube53)
+[2017.11.27-21.35.25:650][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube52)
+[2017.11.27-21.35.30:385][902]Cmd: DUPLICATE
+[2017.11.27-21.35.30:386][902]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.35.39:995][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2017.11.27-21.35.48:072][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2017.11.27-21.35.52:681][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2017.11.27-21.35.58:670][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.36.00:870][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2017.11.27-21.36.09:414][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2017.11.27-21.36.17:788][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2017.11.27-21.36.28:947][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2017.11.27-21.36.29:951][ 75]Cmd: DUPLICATE
+[2017.11.27-21.36.29:951][ 75]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.36.36:607][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.36.56:428][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2017.11.27-21.36.57:789][564]Cmd: DUPLICATE
+[2017.11.27-21.36.57:789][564]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.37.05:623][743]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2017.11.27-21.37.06:277][753]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube60)
+[2017.11.27-21.37.21:649][ 20]LogEditorViewport: Clicking Background
+[2017.11.27-21.37.24:164][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube61)
+[2017.11.27-21.37.47:881][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2017.11.27-21.37.51:624][589]Cmd: DUPLICATE
+[2017.11.27-21.37.51:624][589]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.38.25:105][240]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.38.42:687][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-21.38.45:193][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2017.11.27-21.38.46:120][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.38.52:316][843]Cmd: TRANSACTION UNDO
+[2017.11.27-21.38.52:316][843]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.38.54:650][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.39.04:921][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2017.11.27-21.39.07:568][164]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.39.09:051][193]LogEditorViewport: Clicking Background
+[2017.11.27-21.39.10:240][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube56)
+[2017.11.27-21.39.14:360][253]Cmd: DUPLICATE
+[2017.11.27-21.39.14:361][253]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.39.22:207][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.39.41:312][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2017.11.27-21.39.41:789][716]Cmd: DUPLICATE
+[2017.11.27-21.39.41:789][716]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.39.48:377][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2017.11.27-21.39.51:254][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2017.11.27-21.39.58:613][ 81]LogEditorViewport: Clicking Background
+[2017.11.27-21.40.11:927][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.40.13:033][329]Cmd: DUPLICATE
+[2017.11.27-21.40.13:034][329]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.40.56:203][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.41.14:847][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.41.17:020][550]LogEditorViewport: Clicking Background
+[2017.11.27-21.41.18:589][569]LogSavePackage: Save=409.97ms
+[2017.11.27-21.41.18:589][569]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapC87FC70C49922C8A914AE8A3074FB4BA.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.41.18:597][569]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.41.19:190][569]LogSavePackage: Save=502.95ms
+[2017.11.27-21.41.19:190][569]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData14B58CF74D8F4AFCC91BC9968FA3EB99.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.41.19:193][569]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.41.24:999][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-21.41.35:613][815]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.11.27-21.41.37:018][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-21.41.48:243][ 59]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube22)
+[2017.11.27-21.41.52:063][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-21.41.53:968][182]LogEditorViewport: Clicking Background
+[2017.11.27-21.41.55:853][230]LogEditorViewport: Clicking Background
+[2017.11.27-21.41.56:561][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2017.11.27-21.42.00:674][312]Cmd: TRANSACTION UNDO
+[2017.11.27-21.42.00:674][312]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.42.26:258][691]LogEditorViewport: Clicking Background
+[2017.11.27-21.42.26:652][700]Cmd: TRANSACTION UNDO
+[2017.11.27-21.42.26:652][700]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.42.27:561][715]Cmd: TRANSACTION UNDO
+[2017.11.27-21.42.27:561][715]LogEditorTransaction: Undo Set Location
+[2017.11.27-21.42.37:279][925]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube22)
+[2017.11.27-21.42.40:883][984]Cmd: PIVOT SNAPPED
+[2017.11.27-21.42.41:959][  9]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.43.14:633][480]LogEditorViewport: Clicking Background
+[2017.11.27-21.43.22:469][636]LogSavePackage: Save=386.88ms
+[2017.11.27-21.43.22:469][636]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap98DA801040E9B24CBC7E669470ADECC1.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.43.22:476][636]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.43.23:050][636]LogSavePackage: Save=490.64ms
+[2017.11.27-21.43.23:050][636]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData22894C54477491E1ABB42099907BA534.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.43.23:053][636]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.43.23:607][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2017.11.27-21.43.30:013][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2017.11.27-21.43.30:720][787]Cmd: DUPLICATE
+[2017.11.27-21.43.30:721][787]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.43.35:640][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2017.11.27-21.43.41:737][  1]Cmd: DELETE
+[2017.11.27-21.43.41:737][  1]Cmd: ACTOR DELETE
+[2017.11.27-21.43.41:755][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.43.41:830][  1]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2017.11.27-21.43.42:617][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2017.11.27-21.43.52:850][221]Cmd: DELETE
+[2017.11.27-21.43.52:850][221]Cmd: ACTOR DELETE
+[2017.11.27-21.43.52:864][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.43.52:923][221]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2017.11.27-21.43.54:639][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2017.11.27-21.44.16:866][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2017.11.27-21.44.19:951][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.44.23:120][790]LogEditorViewport: Clicking Background
+[2017.11.27-21.44.23:730][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2017.11.27-21.44.24:338][809]Cmd: DUPLICATE
+[2017.11.27-21.44.24:338][809]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.44.28:992][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2017.11.27-21.44.30:006][911]Cmd: DELETE
+[2017.11.27-21.44.30:007][911]Cmd: ACTOR DELETE
+[2017.11.27-21.44.30:024][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.44.30:097][911]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2017.11.27-21.44.30:756][925]LogEditorViewport: Clicking Background
+[2017.11.27-21.44.31:174][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2017.11.27-21.44.45:908][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2017.11.27-21.44.55:040][346]LogEditorViewport: Clicking Background
+[2017.11.27-21.44.55:370][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2017.11.27-21.45.07:365][597]LogSavePackage: Save=432.84ms
+[2017.11.27-21.45.07:365][597]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapEFABCB1146E6AE21A115B0A3432BDD1F.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.45.07:372][597]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.45.07:927][597]LogSavePackage: Save=499.07ms
+[2017.11.27-21.45.07:928][597]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltDataA314D3514FCB75B2E67E2DAEF2BFD2D2.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.45.07:932][597]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.45.14:953][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2017.11.27-21.45.18:625][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube64)
+[2017.11.27-21.45.20:576][809]Cmd: EDIT COPY
+[2017.11.27-21.45.21:259][823]Cmd: EDIT PASTE
+[2017.11.27-21.45.34:677][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.45.36:696][126]LogEditorViewport: Clicking Background
+[2017.11.27-21.45.37:244][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2017.11.27-21.45.47:485][365]LogEditorViewport: Clicking Background
+[2017.11.27-21.45.52:858][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2017.11.27-21.45.54:233][489]Cmd: DUPLICATE
+[2017.11.27-21.45.54:233][489]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.46.18:497][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube52)
+[2017.11.27-21.46.20:450][984]Cmd: DUPLICATE
+[2017.11.27-21.46.20:450][984]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.46.38:733][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2017.11.27-21.46.39:729][376]Cmd: DUPLICATE
+[2017.11.27-21.46.39:729][376]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.46.52:040][631]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.46.53:785][661]LogEditorViewport: Clicking Background
+[2017.11.27-21.47.03:020][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube61)
+[2017.11.27-21.47.23:203][270]LogEditorViewport: Clicking Background
+[2017.11.27-21.47.30:234][410]LogSavePackage: Save=404.88ms
+[2017.11.27-21.47.30:234][410]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapF9F6FC0E4F58C410B3265BB00A2B509A.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.47.30:242][410]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.47.30:877][410]LogSavePackage: Save=544.89ms
+[2017.11.27-21.47.30:877][410]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltDataD9E2ED0A4D946B233D82DAB3611C5017.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.47.30:880][410]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.47.32:743][451]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-21.47.32:836][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.47.32:836][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-21.47.32:837][451]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 28, 2017, 1:47:32 AM)
+[2017.11.27-21.47.32:837][451]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.27-21.47.32:936][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098211s)
+[2017.11.27-21.47.32:938][451]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-21.47.32:940][451]LogPlayLevel: PIE: World Init took: (0.003747s)
+[2017.11.27-21.47.32:940][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.103202s)
+[2017.11.27-21.47.33:000][451]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-21.47.33:041][451]LogInit: FAudioDevice initialized.
+[2017.11.27-21.47.33:088][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.27-21.47.33:097][451]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.27-23.47.33
+[2017.11.27-21.47.33:097][451]LogWorld: Bringing up level for play took: 0.007754
+[2017.11.27-21.47.33:100][451]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.124
+[2017.11.27-21.47.33:100][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.48.32:774][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.48.32:890][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.48.34:709][323]LogSavePackage: Save=392.24ms
+[2017.11.27-21.48.34:709][323]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap369C247644ABCB070A71F09E85B988E0.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.48.34:715][323]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.48.35:283][323]LogSavePackage: Save=508.21ms
+[2017.11.27-21.48.35:283][323]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData6D77C37F4974EE08588F3C8BCD4BC00A.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.48.35:287][323]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.48.56:874][796]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2017.11.27-21.49.02:193][898]Cmd: TRANSACTION UNDO
+[2017.11.27-21.49.02:194][898]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.49.05:172][951]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2017.11.27-21.49.09:775][ 46]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.11.27-21.49.15:238][154]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.27-21.49.33:520][328]LogEditorViewport: Clicking Background
+[2017.11.27-21.49.34:979][358]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.27-21.49.50:517][495]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-21.49.50:614][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.49.50:615][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-21.49.50:616][495]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 28, 2017, 1:49:50 AM)
+[2017.11.27-21.49.50:616][495]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.27-21.49.50:724][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107518s)
+[2017.11.27-21.49.50:727][495]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-21.49.50:728][495]LogPlayLevel: PIE: World Init took: (0.003548s)
+[2017.11.27-21.49.50:729][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.112794s)
+[2017.11.27-21.49.50:843][495]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-21.49.50:880][495]LogInit: FAudioDevice initialized.
+[2017.11.27-21.49.50:927][495]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.27-21.49.50:940][495]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.27-23.49.50
+[2017.11.27-21.49.50:942][495]LogWorld: Bringing up level for play took: 0.013358
+[2017.11.27-21.49.50:945][495]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.03
+[2017.11.27-21.49.50:946][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.50.01:883][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.50.02:024][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-21.50.03:434][667]LogSavePackage: Save=355.66ms
+[2017.11.27-21.50.03:434][667]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap8C5DEEA44B4462C3EB5D7BA47AF0BD86.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.50.03:441][667]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.50.04:167][667]LogSavePackage: Save=631.13ms
+[2017.11.27-21.50.04:167][667]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData42A4FE924F23FE133C0A87B33BFA2785.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.50.04:171][667]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.50.07:198][721]LogEditorViewport: Clicking Background
+[2017.11.27-21.50.12:817][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-21.50.21:350][912]LogEditorViewport: Clicking Background
+[2017.11.27-21.50.23:707][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2017.11.27-21.50.49:650][227]LogEditorViewport: Clicking Background
+[2017.11.27-21.50.50:047][237]Cmd: TRANSACTION UNDO
+[2017.11.27-21.50.50:048][237]LogEditorTransaction: Undo Clicking Background
+[2017.11.27-21.50.50:923][253]Cmd: TRANSACTION UNDO
+[2017.11.27-21.50.50:924][253]LogEditorTransaction: Undo Set Scale
+[2017.11.27-21.50.51:913][274]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.50.58:573][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2017.11.27-21.51.23:096][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2017.11.27-21.51.50:657][586]LogEditorViewport: Clicking Background
+[2017.11.27-21.51.58:837][763]LogEditorViewport: Clicking Background
+[2017.11.27-21.51.59:426][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2017.11.27-21.52.00:672][794]Cmd: DELETE
+[2017.11.27-21.52.00:672][794]Cmd: ACTOR DELETE
+[2017.11.27-21.52.00:688][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.52.00:767][794]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2017.11.27-21.52.03:525][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2017.11.27-21.52.18:002][140]Cmd: DELETE
+[2017.11.27-21.52.18:002][140]Cmd: ACTOR DELETE
+[2017.11.27-21.52.18:017][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.52.18:090][140]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2017.11.27-21.52.19:484][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2017.11.27-21.52.21:472][211]Cmd: DELETE
+[2017.11.27-21.52.21:472][211]Cmd: ACTOR DELETE
+[2017.11.27-21.52.21:489][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.52.21:566][211]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2017.11.27-21.52.23:439][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.52.24:212][264]Cmd: DUPLICATE
+[2017.11.27-21.52.24:212][264]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.52.28:150][334]Cmd: TRANSACTION UNDO
+[2017.11.27-21.52.28:150][334]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.52.28:388][337]Cmd: TRANSACTION UNDO
+[2017.11.27-21.52.28:389][337]LogEditorTransaction: Undo Duplicate Actors
+[2017.11.27-21.52.29:017][349]Cmd: TRANSACTION UNDO
+[2017.11.27-21.52.29:017][349]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-21.52.29:716][363]Cmd: TRANSACTION UNDO
+[2017.11.27-21.52.29:716][363]LogEditorTransaction: Undo Delete Actors
+[2017.11.27-21.52.31:343][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2017.11.27-21.52.33:263][423]Cmd: DUPLICATE
+[2017.11.27-21.52.33:263][423]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.52.39:836][555]LogEditorViewport: Clicking Background
+[2017.11.27-21.52.40:232][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2017.11.27-21.52.41:497][591]Cmd: DELETE
+[2017.11.27-21.52.41:497][591]Cmd: ACTOR DELETE
+[2017.11.27-21.52.41:513][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.52.41:579][591]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2017.11.27-21.52.42:910][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2017.11.27-21.52.52:176][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.53.14:465][289]LogSlate: Took 0.015528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.27-21.53.26:063][514]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.53.46:679][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.54.02:204][267]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.54.04:112][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2017.11.27-21.54.08:406][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2017.11.27-21.54.09:646][408]Cmd: DUPLICATE
+[2017.11.27-21.54.09:646][408]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.54.42:143][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.55.19:412][752]Cmd: DUPLICATE
+[2017.11.27-21.55.19:413][752]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.55.42:614][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.55.44:298][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2017.11.27-21.55.45:556][315]Cmd: DELETE
+[2017.11.27-21.55.45:556][315]Cmd: ACTOR DELETE
+[2017.11.27-21.55.45:571][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.55.45:635][315]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2017.11.27-21.55.46:618][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube74)
+[2017.11.27-21.56.44:372][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.57.27:545][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.57.56:281][542]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.58.23:794][894]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.58.44:667][154]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.58.58:968][401]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.59.24:358][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-21.59.30:936][811]LogSavePackage: Save=378.85ms
+[2017.11.27-21.59.30:936][811]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapDA28B9024D9978F87880C0B71C5863BD.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-21.59.30:944][811]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-21.59.31:572][811]LogSavePackage: Save=537.77ms
+[2017.11.27-21.59.31:572][811]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData08F0F9054E83E087397830AD3AD552E2.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-21.59.31:576][811]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-21.59.36:089][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2017.11.27-21.59.37:645][927]Cmd: DUPLICATE
+[2017.11.27-21.59.37:645][927]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.59.40:815][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2017.11.27-21.59.41:791][  2]Cmd: DELETE
+[2017.11.27-21.59.41:791][  2]Cmd: ACTOR DELETE
+[2017.11.27-21.59.41:804][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.59.41:869][  2]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2017.11.27-21.59.43:497][ 36]LogEditorViewport: Clicking Background
+[2017.11.27-21.59.43:969][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2017.11.27-22.00.19:480][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2017.11.27-22.00.29:021][979]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.00.30:872][ 15]LogEditorViewport: Clicking Background
+[2017.11.27-22.00.38:789][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2017.11.27-22.00.42:133][259]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2017.11.27-22.00.47:854][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.27-22.00.53:690][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.27-22.00.58:729][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.27-22.01.02:035][691]LogEditorViewport: Clicking Background
+[2017.11.27-22.01.02:546][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.27-22.01.07:015][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.27-22.01.15:058][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2017.11.27-22.01.20:764][ 66]LogSavePackage: Save=407.52ms
+[2017.11.27-22.01.20:764][ 66]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapB589560B45B53B1B753E7A8C32F15832.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-22.01.20:772][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-22.01.21:318][ 66]LogSavePackage: Save=489.07ms
+[2017.11.27-22.01.21:318][ 66]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData2A856DE542BAB2D6EDFC978AFA742F74.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-22.01.21:321][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-22.01.23:145][104]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-22.01.23:240][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.01.23:241][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-22.01.23:242][104]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 28, 2017, 2:01:23 AM)
+[2017.11.27-22.01.23:242][104]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.27-22.01.23:332][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089545s)
+[2017.11.27-22.01.23:334][104]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-22.01.23:335][104]LogPlayLevel: PIE: World Init took: (0.002744s)
+[2017.11.27-22.01.23:336][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.093471s)
+[2017.11.27-22.01.23:392][104]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-22.01.23:427][104]LogInit: FAudioDevice initialized.
+[2017.11.27-22.01.23:471][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.27-22.01.23:485][104]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.28-00.01.23
+[2017.11.27-22.01.23:486][104]LogWorld: Bringing up level for play took: 0.012998
+[2017.11.27-22.01.23:489][104]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.514
+[2017.11.27-22.01.23:490][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.01.27:724][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.01.27:865][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.01.48:428][490]Cmd: SELECT NONE
+[2017.11.27-22.01.48:642][493]Cmd: SELECT NONE
+[2017.11.27-22.01.54:856][613]LogEditorViewport: Clicking Background
+[2017.11.27-22.01.55:657][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2017.11.27-22.01.57:673][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2017.11.27-22.01.58:727][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh4)
+[2017.11.27-22.02.08:855][880]Cmd: TRANSACTION UNDO
+[2017.11.27-22.02.08:855][880]LogEditorTransaction: Undo Rotate Actors
+[2017.11.27-22.02.12:229][927]Cmd: SELECT NONE
+[2017.11.27-22.02.12:519][933]Cmd: SELECT NONE
+[2017.11.27-22.02.14:461][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh4)
+[2017.11.27-22.02.26:107][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh4)
+[2017.11.27-22.02.41:221][449]LogEditorViewport: Clicking Background
+[2017.11.27-22.02.47:199][583]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-22.02.50:393][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2017.11.27-22.02.55:015][667]Cmd: SELECT NONE
+[2017.11.27-22.02.55:996][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2017.11.27-22.03.04:773][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2017.11.27-22.03.14:870][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.27-22.03.20:014][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2017.11.27-22.03.27:238][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh3)
+[2017.11.27-22.03.32:027][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh2)
+[2017.11.27-22.03.35:677][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.27-22.03.37:666][ 80]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.03.45:622][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.03.52:152][230]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2017.11.27-22.03.52:797][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.11.27-22.03.53:997][249]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2017.11.27-22.04.04:500][403]LogEditorViewport: Clicking Background
+[2017.11.27-22.04.05:062][416]LogEditorViewport: Clicking Background
+[2017.11.27-22.04.05:785][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.04.17:386][684]LogEditorViewport: Clicking Background
+[2017.11.27-22.04.17:909][695]LogEditorViewport: Clicking Background
+[2017.11.27-22.04.18:240][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.27-22.04.25:174][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.27-22.04.35:202][ 46]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-22.04.39:079][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2017.11.27-22.04.41:023][119]LogSavePackage: Save=421.10ms
+[2017.11.27-22.04.41:023][119]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap80573C0F44278C39EC0AB7945934F680.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-22.04.41:031][119]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-22.04.41:698][119]LogSavePackage: Save=554.94ms
+[2017.11.27-22.04.41:698][119]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData74EDFF7E44E9BD2B8473C6932B7D3917.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-22.04.41:702][119]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-22.04.42:162][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.27-22.04.46:325][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.27-22.05.16:382][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.05.35:838][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh2)
+[2017.11.27-22.05.37:360][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.05.43:625][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.27-22.05.48:132][884]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.05.49:034][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.11.27-22.05.49:673][899]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2017.11.27-22.05.57:833][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.06.05:670][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.27-22.06.15:689][402]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-22.06.18:033][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.27-22.06.24:275][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2017.11.27-22.06.29:044][542]LogSavePackage: Save=390.23ms
+[2017.11.27-22.06.29:044][542]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap1D43F49346A1B36B98A989B5488EA88B.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-22.06.29:054][542]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-22.06.29:629][542]LogSavePackage: Save=512.67ms
+[2017.11.27-22.06.29:629][542]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData658CC030493094EE3958EBB05922B832.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-22.06.29:632][542]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-22.06.34:002][592]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-22.06.34:118][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.06.34:119][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-22.06.34:120][592]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 28, 2017, 2:06:34 AM)
+[2017.11.27-22.06.34:120][592]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.27-22.06.34:245][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124658s)
+[2017.11.27-22.06.34:248][592]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-22.06.34:249][592]LogPlayLevel: PIE: World Init took: (0.003097s)
+[2017.11.27-22.06.34:250][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.129066s)
+[2017.11.27-22.06.34:340][592]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-22.06.34:389][592]LogInit: FAudioDevice initialized.
+[2017.11.27-22.06.34:433][592]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.27-22.06.34:445][592]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.28-00.06.34
+[2017.11.27-22.06.34:447][592]LogWorld: Bringing up level for play took: 0.012205
+[2017.11.27-22.06.34:450][592]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.526
+[2017.11.27-22.06.34:450][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.06.39:788][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.06.39:922][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.06.54:381][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2017.11.27-22.06.57:661][861]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2017.11.27-22.07.15:335][140]LogEditorViewport: Clicking Background
+[2017.11.27-22.07.16:264][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2017.11.27-22.07.26:168][360]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-22.07.48:518][609]Cmd: TRANSACTION UNDO
+[2017.11.27-22.07.48:518][609]LogEditorTransaction: Undo Move Actors
+[2017.11.27-22.07.49:029][613]Cmd: TRANSACTION UNDO
+[2017.11.27-22.07.49:030][613]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-22.07.51:991][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh4)
+[2017.11.27-22.07.59:243][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2017.11.27-22.08.00:019][732]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2017.11.27-22.08.05:007][780]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2017.11.27-22.08.23:441][ 45]LogEditorViewport: Clicking Background
+[2017.11.27-22.08.24:159][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.11.27-22.08.25:430][ 84]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2017.11.27-22.08.27:180][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2017.11.27-22.08.31:012][171]LogEditorViewport: Clicking Background
+[2017.11.27-22.08.31:597][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.11.27-22.08.43:065][415]Cmd: ACTOR UNHIDE ALL
+[2017.11.27-22.08.55:180][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2017.11.27-22.09.03:684][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh3)
+[2017.11.27-22.09.09:123][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.11.27-22.09.34:330][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.27-22.09.35:380][942]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2017.11.27-22.09.37:021][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2017.11.27-22.09.37:653][964]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder2)
+[2017.11.27-22.09.41:088][999]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube_Target1)
+[2017.11.27-22.09.43:332][ 20]Cmd: TRANSACTION UNDO
+[2017.11.27-22.09.43:332][ 20]LogEditorTransaction: Undo Move Actors
+[2017.11.27-22.09.43:385][ 20]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Cylinder2.StaticMeshComponent0) Component already registered.
+[2017.11.27-22.09.46:982][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (rail)
+[2017.11.27-22.10.25:002][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.27-22.10.32:038][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-22.10.41:309][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2017.11.27-22.10.50:020][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-22.10.52:321][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2017.11.27-22.10.56:041][806]Cmd: TRANSACTION UNDO
+[2017.11.27-22.10.56:041][806]LogEditorTransaction: Undo Move Actors
+[2017.11.27-22.10.56:865][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-22.10.58:342][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-22.10.59:384][836]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2017.11.27-22.11.00:514][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-22.11.02:297][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.11.12:523][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2017.11.27-22.11.13:665][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.27-22.11.15:735][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-22.11.23:389][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2017.11.27-22.11.24:758][271]LogEditorViewport: Clicking Background
+[2017.11.27-22.11.25:043][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.27-22.11.35:166][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-22.11.39:240][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2017.11.27-22.11.47:540][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-22.11.55:814][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-22.11.58:873][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.12.15:451][251]LogEditorViewport: Clicking Background
+[2017.11.27-22.12.15:947][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-22.12.31:557][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.27-22.12.48:456][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2017.11.27-22.12.52:187][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.13.08:435][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.13.09:918][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.11.27-22.13.11:559][369]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.13.14:569][421]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.13.21:857][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.13.33:607][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-22.13.38:136][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.13.47:889][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2017.11.27-22.14.14:169][504]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube23)
+[2017.11.27-22.14.16:908][545]Cmd: PIVOT SNAPPED
+[2017.11.27-22.14.18:154][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.14.29:667][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.14.32:014][828]Cmd: SELECT NONE
+[2017.11.27-22.14.33:092][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.14.39:912][978]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube24)
+[2017.11.27-22.14.43:137][ 25]Cmd: PIVOT SNAPPED
+[2017.11.27-22.14.44:927][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.14.55:489][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2017.11.27-22.14.59:007][334]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.27-22.15.01:251][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.11.27-22.15.18:543][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-22.15.26:709][890]Cmd: TRANSACTION UNDO
+[2017.11.27-22.15.26:709][890]LogEditorTransaction: Undo Move Actors
+[2017.11.27-22.15.51:931][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2017.11.27-22.15.52:914][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-22.15.57:245][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-22.16.08:515][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2017.11.27-22.16.11:048][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2017.11.27-22.16.20:298][895]LogSavePackage: Save=374.39ms
+[2017.11.27-22.16.20:298][895]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap51B5F7AC4428D6BAFFF437BC627E38BA.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-22.16.20:307][895]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-22.16.20:932][895]LogSavePackage: Save=513.53ms
+[2017.11.27-22.16.20:932][895]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltData30F4D80049FECA73166D9DBD0742694D.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-22.16.20:935][895]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-22.16.21:235][902]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-22.16.21:347][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.16.21:348][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-22.16.21:349][902]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 28, 2017, 2:16:21 AM)
+[2017.11.27-22.16.21:350][902]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.27-22.16.21:478][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127753s)
+[2017.11.27-22.16.21:481][902]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.27-22.16.21:482][902]LogPlayLevel: PIE: World Init took: (0.004334s)
+[2017.11.27-22.16.21:483][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.133555s)
+[2017.11.27-22.16.21:583][902]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-22.16.21:654][902]LogInit: FAudioDevice initialized.
+[2017.11.27-22.16.21:701][902]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.27-22.16.21:715][902]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.28-00.16.21
+[2017.11.27-22.16.21:716][902]LogWorld: Bringing up level for play took: 0.013177
+[2017.11.27-22.16.21:719][902]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.744
+[2017.11.27-22.16.21:720][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.17.54:599][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.17.54:725][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.27-22.18.06:347][415]Cmd: SELECT NONE
+[2017.11.27-22.18.07:015][420]Cmd: SELECT NONE
+[2017.11.27-22.18.08:170][428]LogSavePackage: Save=338.99ms
+[2017.11.27-22.18.08:170][428]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMapCA91D4CC492AEC2FA9F1109D9A070305.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.27-22.18.08:177][428]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.27-22.18.08:764][428]LogSavePackage: Save=516.52ms
+[2017.11.27-22.18.08:764][428]LogSavePackage: Moving '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/ThirdPersonExampleMap_BuiltDataA9E4CD1D481A08BFA3413382412B0B6A.tmp' to '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.27-22.18.08:769][428]LogSavePackage: Display: Finished SavePackage ../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.27-22.18.09:686][436]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-22.18.09:686][436]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-22.18.10:654][437]Cmd: QUIT_EDITOR
+[2017.11.27-22.18.11:392][437]LogExit: Preparing to exit.
+[2017.11.27-22.18.12:128][437]LogDirectoryWatcher: A directory notification for 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/' was aborted.
+[2017.11.27-22.18.12:224][437]LogExit: Editor shut down
+[2017.11.27-22.18.12:261][437]LogExit: Transaction tracking system shut down
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../../../../לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/' was aborted.
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.27-22.18.12:465][437]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.27-22.18.12:599][437]LogExit: Object subsystem successfully closed.
+[2017.11.27-22.18.12:643][437]LogD3D11RHI: Shutdown
+[2017.11.27-22.18.12:643][437]LogD3D11RHI: CleanupD3DDevice
+[2017.11.27-22.18.12:661][437]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.27-22.18.12:696][437]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2017.11.27-22.18.12:696][437]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.27-22.18.12:696][437]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.27-22.18.12:696][437]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.27-22.18.12:697][437]LogDirectoryWatcher: A directory notification for 'C:/Dudi/Programs/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.27-22.18.12:704][437]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.27-22.18.12:704][437]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.27-22.18.12:704][437]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.27-22.18.12:704][437]LogDirectoryWatcher: A directory notification for 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/Collections/' was aborted.
+[2017.11.27-22.18.12:705][437]LogDirectoryWatcher: A directory notification for 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Content/Developers/Dudi/Collections/' was aborted.
+[2017.11.27-22.18.12:705][437]LogDirectoryWatcher: A directory notification for 'C:/Dudi/לימודים/שנה ג/סמסטר א/פיתוח מציאות מדומה/Projects/VR_Ex01/Saved/Collections/' was aborted.
+[2017.11.27-22.18.12:705][437]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.27-22.18.12:705][437]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.27-22.18.12:705][437]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.27-22.18.12:706][437]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.27-22.18.12:707][437]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.27-22.18.12:708][437]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.27-22.18.12:708][437]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.27-22.18.12:708][437]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.27-22.18.12:708][437]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.27-22.18.12:708][437]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.27-22.18.12:708][437]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.27-22.18.12:709][437]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.27-22.18.12:709][437]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.27-22.18.12:709][437]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.27-22.18.12:711][437]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.27-22.18.12:711][437]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.27-22.18.12:711][437]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.27-22.18.12:711][437]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.27-22.18.13:257][437]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.27-22.18.13:258][437]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.27-22.18.13:258][437]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.27-22.18.13:258][437]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.27-22.18.13:258][437]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.27-22.18.13:259][437]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.27-22.18.13:260][437]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.27-22.18.13:260][437]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.27-22.18.13:260][437]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.27-22.18.13:261][437]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.27-22.18.13:261][437]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.27-22.18.13:261][437]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.27-22.18.13:261][437]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.27-22.18.13:261][437]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.27-22.18.13:261][437]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.27-22.18.13:262][437]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.27-22.18.13:262][437]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.27-22.18.13:263][437]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.27-22.18.13:263][437]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.27-22.18.13:264][437]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.27-22.18.13:265][437]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.27-22.18.13:265][437]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.27-22.18.13:266][437]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.27-22.18.13:266][437]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.27-22.18.13:332][437]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.27-22.18.13:332][437]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.27-22.18.13:333][437]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.27-22.18.13:335][437]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.27-22.18.13:335][437]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.27-22.18.13:335][437]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.27-22.18.13:336][437]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.27-22.18.13:337][437]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.27-22.18.13:337][437]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.27-22.18.13:337][437]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.27-22.18.13:338][437]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.27-22.18.13:338][437]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.27-22.18.13:338][437]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.27-22.18.13:338][437]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.27-22.18.13:339][437]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.27-22.18.13:339][437]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.27-22.18.13:339][437]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.27-22.18.13:339][437]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.27-22.18.13:340][437]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.27-22.18.13:548][437]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.27-22.18.13:549][437]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.27-22.18.13:550][437]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.27-22.18.13:550][437]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.27-22.18.13:550][437]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.27-22.18.13:550][437]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.27-22.18.13:550][437]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.27-22.18.13:550][437]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.27-22.18.13:551][437]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.27-22.18.13:553][437]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.27-22.18.13:553][437]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.27-22.18.13:553][437]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.27-22.18.13:554][437]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.27-22.18.13:655][437]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.27-22.18.13:755][437]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.27-22.18.13:755][437]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.27-22.18.13:755][437]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.27-22.18.13:755][437]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.27-22.18.13:755][437]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.27-22.18.13:760][437]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.27-22.18.13:763][437]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.27-22.18.13:763][437]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.27-22.18.13:763][437]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.27-22.18.13:763][437]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.27-22.18.13:764][437]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.27-22.18.13:764][437]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.27-22.18.13:764][437]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.27-22.18.13:764][437]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.27-22.18.13:765][437]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.27-22.18.13:765][437]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.27-22.18.13:772][437]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.27-22.18.13:772][437]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.27-22.18.13:772][437]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.27-22.18.13:772][437]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.27-22.18.13:772][437]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.27-22.18.13:772][437]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.27-22.18.13:773][437]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.27-22.18.13:773][437]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.27-22.18.13:773][437]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.27-22.18.13:773][437]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.27-22.18.13:774][437]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.27-22.18.13:776][437]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.27-22.18.13:777][437]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.27-22.18.13:777][437]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.27-22.18.13:778][437]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.27-22.18.13:778][437]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.27-22.18.13:782][437]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.27-22.18.13:790][437]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.27-22.18.13:790][437]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.27-22.18.13:790][437]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.27-22.18.13:790][437]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.27-22.18.13:790][437]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.27-22.18.13:791][437]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.27-22.18.13:791][437]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.27-22.18.13:791][437]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.27-22.18.13:791][437]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.27-22.18.13:822][437]LogDerivedDataCache: Shutdown
+[2017.11.27-22.18.13:823][437]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.27-22.18.13:823][437]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.27-22.18.13:823][437]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.27-22.18.13:823][437]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.27-22.18.13:824][437]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.27-22.18.13:824][437]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.27-22.18.13:824][437]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.27-22.18.13:824][437]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.27-22.18.13:825][437]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.27-22.18.13:826][437]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.27-22.18.13:827][437]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.27-22.18.13:828][437]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.27-22.18.13:828][437]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.27-22.18.13:828][437]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A6E001B-4FC4-5487-C6F1-8E886D14BCAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=2231286a4e769c835b923698cc20befc%7Ce0fc8c8dd00c485d9c394c980610eb8e%7C23b10e0a-6fb7-4492-958c-70c0a8007177&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.27-22.18.13:836][437]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.27-22.18.13:839][437]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.27-22.18.13:839][437]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.27-22.18.13:839][437]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.27-22.18.13:840][437]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.27-22.18.13:841][437]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.27-22.18.13:841][437]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.27-22.18.13:841][437]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.27-22.18.13:865][437]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.27-22.18.13:866][437]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.27-22.18.13:868][437]LogExit: Exiting.
+[2017.11.27-22.18.13:895][437]Log file closed, 11/28/17 00:18:13
